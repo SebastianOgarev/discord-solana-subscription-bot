@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "setup": "node src/setup.js",
+    "start": "node src/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.x",
+    "@solana/web3.js": "^1.x",
+    "node-cron": "^3.x",
+    "dotenv": "^16.x"
+  }
+} 
